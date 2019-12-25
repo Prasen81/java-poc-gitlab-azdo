@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* helloworld.helloworld.EntryPoint
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* src.main.webapp
